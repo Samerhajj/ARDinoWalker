@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E3D95DD4-BEE2-FF3F-E189-96D04188F27E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TouchToMove.cs">
+    <Files>
+      <File FileName="Assets/Drive.cs" Line="28" Column="13" />
+      <File FileName="Assets/TouchToMove.cs" Line="33" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
